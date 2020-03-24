@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DB24CCCE242A433F00311BF8"
-               BuildableName = "UberSignature_iOS.framework"
+               BuildableName = "UberSignature.framework"
                BlueprintName = "UberSignature-iOS"
                ReferencedContainer = "container:UberSignature.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DB24CCCE242A433F00311BF8"
-            BuildableName = "UberSignature_iOS.framework"
+            BuildableName = "UberSignature.framework"
             BlueprintName = "UberSignature-iOS"
             ReferencedContainer = "container:UberSignature.xcodeproj">
          </BuildableReference>
