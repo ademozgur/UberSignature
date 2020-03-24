@@ -298,6 +298,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.uber.UberSignature;
 				PRODUCT_NAME = UberSignature;
 				SWIFT_VERSION = 5.0;
 			};
@@ -317,6 +318,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.uber.UberSignature;
 				PRODUCT_NAME = UberSignature;
 				SWIFT_VERSION = 5.0;
 			};
